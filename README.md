@@ -1,6 +1,6 @@
-# XVPN
+# X-VPN
 
-XVPN Download 
+X-VPN Download 
 
 [Windows version 38.0_316_545945f5 | 2019-03-29-12-34-50](https://github-production-release-asset-2e65be.s3.amazonaws.com/178519130/64059d00-52f7-11e9-8c9f-c9c9ff812f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190330T062621Z&X-Amz-Expires=300&X-Amz-Signature=532dea698d6f98aae07c23f7cc837e8922bbd23c4ebf4f49c11a32b10e49d01c&X-Amz-SignedHeaders=host&actor_id=49087895&response-content-disposition=attachment%3B%20filename%3DWindows_X-VPN_Installer38.0_316_545945f5_2019-03-29-12-34-50.exe&response-content-type=application%2Foctet-stream)
 
