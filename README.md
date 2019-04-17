@@ -2,8 +2,8 @@
 
 X-VPN Download 
 
-[Windows version 38.0_316_545945f5 | 2019-03-29-12-34-50](https://github-production-release-asset-2e65be.s3.amazonaws.com/178519130/64059d00-52f7-11e9-8c9f-c9c9ff812f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190330T062621Z&X-Amz-Expires=300&X-Amz-Signature=532dea698d6f98aae07c23f7cc837e8922bbd23c4ebf4f49c11a32b10e49d01c&X-Amz-SignedHeaders=host&actor_id=49087895&response-content-disposition=attachment%3B%20filename%3DWindows_X-VPN_Installer38.0_316_545945f5_2019-03-29-12-34-50.exe&response-content-type=application%2Foctet-stream)
+[Windows ](https://github.com/x-vpn/download/releases)
 
-[Mac 29.0_316_545945f5 | 2019-03-29-12-34-01 ](https://github-production-release-asset-2e65be.s3.amazonaws.com/178519130/24d74c00-52f7-11e9-8e60-f944fff0aece?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190330T062413Z&X-Amz-Expires=300&X-Amz-Signature=50033e9e30532b5cc09b88c49fb3e1b502ceb64e9e096dd005621e3beaada452&X-Amz-SignedHeaders=host&actor_id=49087895&response-content-disposition=attachment%3B%20filename%3DMac_X-VPN_29.0_316_545945f5_2019-03-29-12-34-01.dmg&response-content-type=application%2Foctet-stream)
+[Mac  ](https://github.com/x-vpn/download/releases)
 
-[Android XVPN_89_314_cec67356](https://github-production-release-asset-2e65be.s3.amazonaws.com/178519130/64059d00-52f7-11e9-8c9f-c9c9ff812f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190330T062523Z&X-Amz-Expires=300&X-Amz-Signature=adb365abac86eb6802be96888f7dda1fc6ef7f5e19236c700dc69f20fe717b60&X-Amz-SignedHeaders=host&actor_id=49087895&response-content-disposition=attachment%3B%20filename%3DAndroid_X-VPN_Installer38.0_316_545945f5_2019-03-29-12-34-50.exe&response-content-type=application%2Foctet-stream)
+[Android XVPN_](https://github.com/x-vpn/download/releases)
