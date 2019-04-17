@@ -6,4 +6,4 @@ X-VPN Download
 
 [Mac  ](https://github.com/x-vpn/download/releases)
 
-[Android XVPN_](https://github.com/x-vpn/download/releases)
+[Android](https://github.com/x-vpn/download/releases)
