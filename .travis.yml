@@ -1,3 +1,4 @@
+language: python
 deploy:
   provider: releases
   api_key: "82f3f0e9dcdc01671da354af4b41898a0d1b4a24"
