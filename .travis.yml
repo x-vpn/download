@@ -1,0 +1,7 @@
+deploy:
+  provider: releases
+  api_key: "25e9ed84da328cd36b3eff89ac9d65c826fc235f"
+  file: "file/*"
+  skip_cleanup: true
+  on:
+    tags: true
