@@ -1,6 +1,6 @@
 deploy:
   provider: releases
-  api_key: "Boh25v3trsRtzFWxOTkl-w"
+  api_key: "82f3f0e9dcdc01671da354af4b41898a0d1b4a24"
   file: "file/XVPN_92_321_3b056052.apk"
   skip_cleanup: true
   on:
