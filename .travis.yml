@@ -1,5 +1,7 @@
 language: python
 script: true
+script:
+  - python main.py
 
 deploy:
   provider: releases
